@@ -1,14 +1,14 @@
 # veille-technologique
-##👋 Bienvenue sur mon Dépôt de Veille Technologique
+##  Bienvenue sur mon Dépôt de Veille Technologique
 ### 👤 À Propos de Moi
 
-NOM PRENOM: Frichich Rida
-FORMATION/CLASSE: BTS Services Informatiques aux Organisations(SIO)-ENSITECH
-OPTION: Solutions d'Infrastructure, Systèmes et Réseaux (SISR)
-DATE DE NAISSANCE: 06/09/2006
-MON PARCOURS: BAC Géneral,spé mathématique/NSI(physique-chimie abandonnée)
-Mes compétences Clés: HTML; PYTHON; CSS; 
-Mon Objectif avec cette Veille: ce projets me tiens a coeur. Car vu mon parcours j'aimerais co,ntinuer sur ce projet et pourquoi ne pas l'évoluer et de crée mon entreprise avec cette Veille en poche. je suis un pianist passionnée  de piano et de musique et donc j'ai décider d'étudier les données MIDI et audio en temps réels lors des compétition
+* **NOM PRENOM: Frichich Rida
+* **FORMATION/CLASSE: BTS Services Informatiques aux Organisations(SIO)-ENSITECH
+* **OPTION: Solutions d'Infrastructure, Systèmes et Réseaux (SISR)
+* **DATE DE NAISSANCE: 06/09/2006
+* **MON PARCOURS: BAC Géneral,spé mathématique/NSI(physique-chimie abandonnée)
+* **Mes compétences Clés: HTML; PYTHON; CSS; 
+* **Mon Objectif avec cette Veille: ce projets me tiens a coeur. Car vu mon parcours j'aimerais co,ntinuer sur ce projet et pourquoi ne pas l'évoluer et de crée mon entreprise avec cette Veille en poche. je suis un pianist passionnée  de * **piano et de musique et donc j'ai décider d'étudier les données MIDI et audio en temps réels lors des compétition
 
 
 
