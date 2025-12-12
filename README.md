@@ -50,3 +50,7 @@ Documentation technique :
 
 |DATE|ARTICLE|SOURCE|AUTEUR|RESUME|
 -----------------------------------
+|12/12/2025|Latence du réseau|FIRECELL|firecell|
+La latence est principalement causée par la distance physique, le nombre de sauts réseau, et le type/débit de la connexion (câblé est souvent meilleur que Wi-Fi). Elle est minimisée par l'optimisation du routage et la Qualité de Service (QoS).
+Le protocole CSMA/CD (dans Ethernet) assure une communication efficace en faisant d'abord écouter les appareils si le réseau est libre, et en gérant les collisions si deux envois se produisent simultanément (arrêtent et réessaient).|
+
