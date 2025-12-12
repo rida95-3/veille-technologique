@@ -42,3 +42,11 @@ Vidéo 1 : [Tout savoir sur le MIDI !] - [Audiofanzine]
 Podcast 1 : [Nom du Podcast sur la technologie audio pro] - [Épisode pertinent]
 
 Documentation technique :
+
+
+
+
+##  Tableau de suivi de ma veille technologique
+
+|DATE|ARTICLE|SOURCE|AUTEUR|RESUME|
+-----------------------------------
